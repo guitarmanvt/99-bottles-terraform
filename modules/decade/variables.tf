@@ -1,0 +1,3 @@
+variable "decade" {
+    type = number
+}
