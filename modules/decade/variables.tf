@@ -1,3 +1,0 @@
-variable "decade" {
-    type = number
-}
